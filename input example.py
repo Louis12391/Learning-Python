@@ -1,2 +1,2 @@
-userinput = input('what do you like for breakfast')
+userinput = input('what do you like for breakfast? ')
 print(userinput)
